@@ -8,6 +8,8 @@ utilized as the focus. By allowing an avenue for individuals to directly control
 the angle of each joint, or find the angles given a coordinate, complete control
 of the robot (and the weapon) can be simulated.
 
+Project is for the "Foundations of Robotics" Fall 2024 Class at New York University Tandon School of Engineering.
+
 # Instructions
 For instructions on how to impliment and use code, please see "Kinematics of an XARM Documentation.pdf"
 
