@@ -1,7 +1,7 @@
 # Kinematics-of-a-UFACTORY-XARM
  
  The scope of this project includes mapping the kinematics of a 6-degree of
-freedom UFACTORY XARM robot using MATLAB 2024a, which could be later
+freedom UFACTORY XARM robot using MATLAB 2024a Robotics Toolkit Simscape, which could be later
 defined in simulation. A situation involving arming the XARM with a sword of
 previously defined length (with the tip of the blade as the end-effector) will be
 utilized as the focus. By allowing an avenue for individuals to directly control
